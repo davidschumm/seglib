@@ -1,0 +1,2 @@
+# seglib
+Image segmentation playground
